@@ -20,6 +20,8 @@ GROQ_MODEL_NAME="llama3-8b-8192"
 
 NEWS_API_KEY="YOUR_NEWS_API_KEY"
 NEWS_BASE_URL="https://newsdata.io/api/1/"
+
+BRAVE_API_KEY="YOUR_BRAVE_SEARCH_API_KEY"
 ```
 
 ### Start the FastAPI Server
